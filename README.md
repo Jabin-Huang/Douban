@@ -1,5 +1,5 @@
 # Douban
-some simple things  about Douban top 250 movies
+some simple things  about Douban top 250 movies<br>
 现运用python语言对豆瓣电影TOP250进行电影信息的爬取、保存和统计等操作，以方便找出排名靠前的电影的一些简单特征。
 数据源为: https://movie.douban.com/top250
 <!--more-->
